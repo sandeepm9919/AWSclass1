@@ -42,8 +42,7 @@ Improved query performance: Normalized tables are typically easier to search and
 Easier database maintenance: Normalization reduces the complexity of a database by breaking it down into smaller, more manageable tables, making it easier to add, modify, and delete data.
 
 
-
-
+::::::::Difference Between Fact  table and Dimension table ::::::::::::::
 S.NO                          Fact Table                                                              Dimension Tab
 1.	Fact table contains the measuring of the attributes of a dimension table|||||||||||	Dimension table contains the attributes on that truth table calculates the metric.
 2.	In fact table, There is less attributes than dimension table.|||||||||||||||||||||| While in dimension table, There is more attributes than fact table.
