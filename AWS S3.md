@@ -1,3 +1,5 @@
+![](Media/AWS.jpeg)
+
 <ins>**AWS S3**</ins>
 
 Amazon Simple Storage Service (Amazon S3) is a scalable object storage service offered by Amazon Web Services (AWS).
