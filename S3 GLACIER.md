@@ -1,4 +1,4 @@
-::::::::::::::::::::::::::::::::::::::::::::::: S3 GLACIER :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<ins>**S3 GLACIER:**
 
 AWS S3 Glacier is a part of Amazon Web Services (AWS) suite of cloud storage services. It's designed for long-term data archival and backup, offering secure, durable, and extremely low-cost storage. 
 S3 Glacier provides three retrieval options, allowing you to select the speed at which you can access your data: Expedited, Standard, and Bulk.
