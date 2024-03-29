@@ -1,4 +1,4 @@
-![](Media/AWS.jpeg)
+![](Media/AWSS.jpeg)
 
 <ins>**AWS S3**</ins>
 
