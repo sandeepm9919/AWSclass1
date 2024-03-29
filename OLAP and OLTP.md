@@ -7,7 +7,7 @@
 <ins>**OLAP**</ins>
 * Online analytical processing (OLAP) is software technology you can use to analyze business data from different points of view. Organizations collect and store data from multiple data sources, such as websites, applications, smart meters, and internal systems. OLAP combines and groups this data into categories to provide actionable insights for strategic planning. For example, a retailer stores data about all the products it sells, such as color, size, cost, and location. The retailer also collects customer purchase data, such as the name of the items ordered and total sales value, in a different system. OLAP combines the datasets to answer questions such as which color products are more popular or how product placement impacts sales.
 
-Difference between OLAP and OLTP ?
+**Difference between OLAP and OLTP ?**
 
 * Online analytical processing (OLAP) and online transaction processing (OLTP) are two different data processing systems designed for different purposes. 
 OLAP is optimized for complex data analysis and reporting,
