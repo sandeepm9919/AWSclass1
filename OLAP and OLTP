@@ -1,4 +1,4 @@
-OLTP:::::
+<ins>**OLTP**</ins>
 OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently—online banking, shopping, order entry, or sending text messages, for example. These transactions traditionally are referred to as economic or financial transactions, recorded and secured so that an enterprise can access the information anytime for accounting or reporting purposes.
 
 In the past, OLTP was limited to real-world interactions in which something was exchanged–money, products, information, request for services, and so on. But the definition of transaction in this context has expanded over the years, especially since the advent of the internet, to encompass any kind of digital interaction or engagement with a business that can be triggered from anywhere in the world and via any web-connected sensor. It also includes any kind of interaction or action such as downloading pdfs on a web page, viewing a specific video, or automatic maintenance triggers or comments on social channels that maybe critical for a business to record to serve their customers better.
