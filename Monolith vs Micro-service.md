@@ -23,7 +23,7 @@
 * Easier to maintain due to its simplicity
 * Communication between components is faster
 
-<ins>**Micro-Servivce Architecture:**</ins>
+<ins>**Micro-Service Architecture:**</ins>
 
 * Multi-tier architecture
 * Individual services can be deployed independently
