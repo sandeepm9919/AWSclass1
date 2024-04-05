@@ -7,7 +7,6 @@
 
 **FLOW:**
 
-
 * Initially we need data files (e.g., CSV, JSON) to upload into the S3 bucket.
 
  **1) Setup AWS S3 Bucket:** First, ensure we need an AWS S3 bucket where our data files is stored. If we don't have one, we need to create it in the AWS Management Console.
