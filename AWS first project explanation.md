@@ -37,4 +37,6 @@
 * Once the crawler is configured, we run the crawler.
 *  The crawler will scan the data in the S3 bucket, infer its schema, and create or update the metadata tables in the Glue Data Catalog.
 
+**By following all these steps, we can set up a workflow to ingest data from an S3 bucket into the Glue Data Catalog using IAM roles and policies to manage access control.**
+
 
