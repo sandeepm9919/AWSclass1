@@ -1,1 +1,1 @@
-![](media/aws_project_image.JPEG)
+![](Media/aws_project_image.jpeg)
