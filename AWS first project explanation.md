@@ -26,7 +26,16 @@
 **4) Attach Additional Policies:**
 
 * Go to the Create policy and click JSON and remove the existing code and add the new JSON format which includes S3 bucket ARN in the place of Resource, then click next and then name our policy and create the policy.
-* Now again come to the roles and click the specific role which we created in point 3, and then click add permissions then attach policies and search for  policy name which we created before and 
+* Now again come to the roles and click the specific role which we created in point 3, and then click add permissions then attach policies and search for  policy name which we created before(if we forget exact names then we search for customer managed  and we can the names) and add permissions.
 
+**5) Create a Glue Crawler:** 
+* Go to the AWS Glue console and create a new crawler.
+* Configure the crawler to point to the S3 bucket where our data is stored.
+* Specify the IAM role we created earlier to allow Glue to access the S3 bucket.
+* The crawler will automatically infer the schema of our data and create metadata tables in the Glue Data Catalog.
+
+**6)Run the Glue Crawler:** 
+* Once the crawler is configured, we run the crawler.
+*  The crawler will scan the data in the S3 bucket, infer its schema, and create or update the metadata tables in the Glue Data Catalog.
 
 
