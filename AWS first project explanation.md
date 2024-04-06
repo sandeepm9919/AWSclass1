@@ -41,19 +41,27 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <ins>**Explaining step by step AWS IAM POLICY JSON:**
 
 
 ![](Media/JSON.png)
+
+* **Version:**
+Specifies the version of the policy language. In this case, it's **"2012-10-17"**, which indicates the policy is written according to version **2012-10-17** of the IAM policy language.
+
+* **Statements:**
+This is an array containing one or more policy statements. Each statement describes a set of permissions.
+
+* **Effect:**
+ **"Allow:"**
+Indicates that the actions specified in this statement are allowed.
+* **Action:**
+Specifies the actions that the policy allows. These actions are related to describing, getting, and listing objects in S3.
+* **Resource:**
+Defines the AWS resources to which the actions apply. Here, it allows actions on objects within the "global-electric-car/us/washington/" path in an S3 bucket, as well as any objects within that path.
+
+**Overall, this policy grants permissions for various S3 operations on specific buckets and objects, as well as for describing, getting, and listing objects within a specific path in an S3 bucket.**
+
+
 
 
