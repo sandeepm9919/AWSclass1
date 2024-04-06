@@ -40,3 +40,20 @@
 **By following all these steps, we can set up a workflow to ingest data from an S3 bucket into the Glue Data Catalog using IAM roles and policies to manage access control.**
 
 
+
+
+
+
+
+
+
+
+
+
+
+<ins>**Explaining step by step AWS IAM POLICY JSON:**
+
+
+![](Media/JSON.png)
+
+
