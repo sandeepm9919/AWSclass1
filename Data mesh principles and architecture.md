@@ -36,7 +36,21 @@ Centralized data lakes and warehouses, while offering a single source of truth, 
 Data mesh flips the script on traditional data architectures. Ownership of data is distributed to the business domains that understand it best. This fosters a deeper understanding of data needs and promotes data quality. Self-service infrastructure empowers domains to publish and manage their data through standardized APIs. Data becomes a product, enabling collaboration and knowledge sharing across the organization. Finally, federated governance ensures consistency and quality across the entire data mesh ecosystem.
   ![](Media/data0001.jpeg)
 
+  
   <ins>**STEP4:**
+
+  **Core Principles of Data Mesh**
+* **Decentralized Data Ownership:** Business domains own the data they generate and are responsible for its quality, definition, and consumption.
+* **Self-Service Data Infrastructure:** A standardized platform and APIs empower domains to manage, integrate, and publish their data.
+* **Data as a Product:** Domains treat their curated data sets as products, clearly defining ownership, access, and usage guidelines.
+* **Federated Governance:** Collaborative practices ensure consistent data standards, quality measures, and security across the data mesh.
+
+**Notes**
+These four core principles are the foundation of a successful data mesh implementation. Decentralized ownership fosters accountability and expertise. Self-service infrastructure empowers agility and innovation. Data as a product promotes collaboration and knowledge sharing. Federated governance ensures trust and consistency across the entire data mesh.
+![](Media/data000001.jpeg)
+  
+
+  <ins>**STEP5:**
 
 **Benefits of Data Mesh**
 
@@ -48,7 +62,8 @@ Data mesh flips the script on traditional data architectures. Ownership of data 
 **Notes:**
 Data mesh offers a compelling set of benefits. By breaking down silos and empowering domains, data mesh fosters increased agility and faster time to insights. Decentralized ownership leads to a heightened focus on data quality and accuracy. The distributed architecture scales effortlessly to accommodate growth and evolving data needs. Finally, data mesh empowers a wider range of users to access and utilize data, driving a more data-driven culture across the organization.
  ![](Media/data00001.jpeg)
-  
+
+
 
 
 
