@@ -1,4 +1,8 @@
+<ins>**DATA MESH PRINCIPLES AND ARCHITECTURE:**
 
+**I WILL EXPLAIN STEP BY STEP PROCESS WITH DIAGRAMS**
 
 ![](Media/data.jpeg)
+
+
 ![](Media/data1.jpeg)
