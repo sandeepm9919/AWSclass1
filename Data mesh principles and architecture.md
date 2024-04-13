@@ -2,7 +2,7 @@
 
 **I WILL EXPLAIN STEP BY STEP PROCESS WITH DIAGRAMS**
 
-![](Media/data.jpeg)
+![](Media/data.jpeg)   ![](Media/data1.jpeg)
 
 
-![](Media/data1.jpeg)
+
