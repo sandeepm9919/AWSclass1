@@ -95,6 +95,11 @@ on file1.primary_key = file2.right_primary_key**
 ![](Media/RESULT3.png)
 
 
+<INS>:::::::**CONCLUSION::::::::**
+
+**By following all the above steps, we can setup a workflow to ingest data from S3 bucket into the Glue Data Catalog and querying the data catalog tables through Athena and finally send the results to the target S3 Bucket using IAM roles and policies to manage access control.**
+
+
 
 
 
